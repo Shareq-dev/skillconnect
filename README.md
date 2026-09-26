@@ -2,6 +2,8 @@
 
 A responsive freelancer discovery and booking capstone. Browse a fictional catalog of 104 talent profiles, shortlist people, request services, and manage your own service listings. The interface is built with HTML, CSS, and vanilla JavaScript and is deployed as a **static Vercel site**.
 
+**Live site:** [skillconnect-phi-gules.vercel.app](https://skillconnect-phi-gules.vercel.app/)
+
 ## Features
 
 - Four featured cards on the homepage, with **View all** revealing the full catalog.
@@ -60,7 +62,7 @@ Open `http://localhost:3000`. `npm run dev` builds the static client and serves 
 
 ## Deployment and submission
 
-Follow [DEPLOYMENT.md](DEPLOYMENT.md) to import the GitHub repository into Vercel and verify the live URL. Submit both the GitHub repository URL and the Vercel URL to the mentor. No secret or server environment variables are needed for this static demo.
+SkillConnect is live at [skillconnect-phi-gules.vercel.app](https://skillconnect-phi-gules.vercel.app/). [DEPLOYMENT.md](DEPLOYMENT.md) records the Vercel setup and live-site checks. Submit the live URL along with the GitHub repository URL to the mentor. No secret or server environment variables are needed for this static demo.
 
 ## Scope and next steps
 
