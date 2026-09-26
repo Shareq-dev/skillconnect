@@ -40,5 +40,5 @@ Once the deployment passes the checks above, submit the actual links:
 
 ```text
 GitHub repository: https://github.com/Shareq-dev/skillconnect
-Live site: https://<vercel-project-name>.vercel.app
+Live site: skillconnect-phi-gules.vercel.app
 ```
